@@ -1,0 +1,153 @@
+
+   table {
+
+      width: 300px;
+    
+      /* margin: 2em; */
+    
+      text-align: center;
+    
+      border: 3px red solid;
+    
+      padding: 0px;
+    
+      border-collapse: collapse;
+    
+      font-weight: bolder;
+    
+    }
+    
+    
+    
+    .first-table th {
+    
+      border: 2px black solid;
+    
+      padding: 10px;
+    
+      margin: 0px;
+    
+    }
+    
+    
+    
+    .first-table td {
+    
+      border: 2px black solid;
+    
+      padding: 10px;
+    
+      margin: 0px;
+    
+    }
+
+
+ 
+ .first-table {
+
+  /*  border: 1px solid red; */
+    background-color: white;
+    float: left;
+    width: 200px;
+    border: 1px solid rgb(255, 0, 13);
+    border-collapse: collapse;
+    padding: 1em;
+
+
+ }
+
+ .first-table td {
+   background-color: white;
+   border: 1px solid black;
+  /* border-top-color: 1px solid black;
+   border-left-color: 1px solid black;
+   border-right-color: 1px solid black;*/
+   color: black;
+   padding: 1em;
+   font-size: 1em;
+   padding: 1em;
+  
+
+}
+
+.first-table tr:first-child td:nth-child(2) {
+
+   background-color: orange;
+ 
+   color: white;
+ 
+ }
+
+.first-table tbody {
+   border: 1px solid red;
+}
+/*
+.first-table td {
+   padding: 1em;
+   border: 1px solid red; } */
+ /*  border: 1px solid red; */
+   
+
+/* table tbody tr:nth-child(even) {
+	background-color: #ffffff;
+} */
+
+ .first-table th:nth-child(3) {
+   background-color: blue;
+   }
+
+.first-table td:nth-col {
+
+      background-color: red;
+   }
+
+   .first-table  nth-child {
+      background-color: yellow;
+    }
+
+
+
+ .second-table {
+
+      border: 1px solid white;
+      color: white;
+      padding: 1em;
+      float: right;
+     
+   
+   }
+
+ /* th, td {
+      border: 1px solid white;
+      border-collapse: collapse;
+    } */
+
+ .second-table tr:nth-child(even) {
+   background-color: #bf95bb;
+ }
+
+ .second-table tr:nth-child(odd) {
+   background-color: rgb(128, 0, 119);
+ }
+
+ 
+
+
+
+
+ 
+
+
+ 
+ /* tr:first-child td:nth-child(2) {
+    background-color: orange;
+    }
+
+    tr:nth-child(even) {
+    background-color: violet;
+    }
+
+    */
+
+
+  
