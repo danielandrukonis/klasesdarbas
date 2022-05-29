@@ -1,0 +1,85 @@
+/*
+    Pilko teksto spalva
+    #666;
+
+    Bloko viršutinio border ir h1 spalva:
+    #0974b3
+  
+    clear fix
+
+*/
+
+.container {
+    width: 700px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    color: #666;
+    
+ }
+
+ h1 {
+ 
+     color:#0974b3;
+
+ }
+
+ p {
+
+
+ }
+
+ article { 
+
+    border-top: #0974b3 4px solid;
+
+
+ }
+
+body {
+
+    font-family: 'News Cycle', sans-serif;
+    font-size: 16px;
+    padding: 20px;
+
+   .isac { 
+
+    
+
+    
+   }
+
+   .newton {}
+
+   #newton::after {
+       content: "";
+       clear: both;
+       display: table;
+    }
+  
+
+
+    .tesla {
+
+
+    width: 48%;
+    float: right;
+    border-top: solid 
+
+    }
+
+}
+
+
+
+[19:45] Povilas Vasiliauskas
+
+
+[19:47] Povilas Vasiliauskas
+taip, color: #666
+
+[19:51] Marijus Romanovas
+#newton::after {content: "";clear: both;display: table;}
+
+[19:53] Povilas Vasiliauskas
+border-top: #0974b3 4px solid;
+
