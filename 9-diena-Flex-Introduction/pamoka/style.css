@@ -1,0 +1,22 @@
+body {
+    height: 800px;
+    border: solid 2px red;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-end;
+}
+div { 
+    width: 100px;
+    line-height: 100px;
+    height: 100px;
+    border: solid 2px black;
+    font-size: 3em;
+    background-color: red;  
+    text-align: center;
+    margin: 20px;
+
+
+}
