@@ -1,0 +1,2 @@
+ctrl -> space -> automatic code suggestion
+cmd + slash -> comments

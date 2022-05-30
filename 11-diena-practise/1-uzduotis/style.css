@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .orange-square {
+      border: solid orange 1px;
+      
+  }
+
+  i {
+      color: orange;
+  }
+
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(255, 0, 0, 0.4); ;
+    box-sizing: border-box;
+
+    
+}
+
+a {
+    text-decoration: none;
+    color:  black;
+}
+
+button {
+    background-color: rgba(255, 0, 0, 0.4);
+    border: none;
+}
+
+  .contacts {
+
+  }
